@@ -1,0 +1,57 @@
+{
+  "doctors": [
+    {
+      "name": "Dr. Apoorv Srivastava",
+      "qualification": "B.D.S.",
+      "speciality": "RCT Expert",
+      "about": "Expert in RCT, tooth extraction, braces, whitening. More than 10 years of experience in the field along with some critical cases.",
+      "achievements": "Gold medalist and top performer in college",
+      "clinic": "Jai Devi Dental",
+      "address": "Prem Nagar \n Bajaria Road \n Orai",
+      "email": "jaidevidental@gmail.com",
+      "phNo": "9876543212",
+      "id": 1
+    },
+    {
+      "name": "Dr. Akansha Srivastava",
+      "qualification": "B.D.S.",
+      "speciality": "Paeria Expert",
+      "about": "Expert in RCT, tooth extraction, braces, whitening. More than 10 years of experience in the field along with some critical cases.",
+      "achievements": "Gold medalist and top performer in Rama Dental College",
+      "clinic": "EkDantam Dental Clinic",
+      "address": "Sai Kripa Building \n In front of medical college \n Orai",
+      "email": "jaidevidental@gmail.com",
+      "phNo": "9876543212",
+      "id": 2
+    },
+    {
+      "name": "Dr. N. K. Gupta",
+      "qualification": "MD MBBS",
+      "speciality": "Neurologist",
+      "about": "20 years of experience, practised in nationwide known hospitals and have done more than 50 surgeries.",
+      "achievements": "Awared by Health Ministry of India",
+      "organization": "Apollo Hospital",
+      "address": "Shaheed Path, Lucknow",
+      "email": "nkgupa@apollo.com",
+      "phNo": "98767654321",
+      "id": 3
+    }
+  ],
+  "images": [
+    {
+      "src": "https://c2.staticflickr.com/9/8817/28973449265_07e3aa5d2e_b.jpg",
+      "thumbnail": "https://c2.staticflickr.com/9/8817/28973449265_07e3aa5d2e_n.jpg",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 174,
+      "caption": "After Rain (Jeshu John - designerspics.com)"
+    },
+    {
+      "src": "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_b.jpg",
+      "thumbnail": "https://c2.staticflickr.com/9/8356/28897120681_3b2c0f43e0_n.jpg",
+      "thumbnailWidth": 320,
+      "thumbnailHeight": 212,
+      "caption": "Boats (Jeshu John - designerspics.com)"
+    }
+  ],
+  "enquiries": []
+}
